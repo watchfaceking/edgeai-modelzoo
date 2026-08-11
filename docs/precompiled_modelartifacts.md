@@ -14,5 +14,5 @@ Note: The tasks performed by the pre-compiled model artifacts can be identified 
 - ss: Semantic Segmentation Models
 - kd: Keypoint Detection Models (Human Pose Estimation)
 - de: Depth Estimation
-- lidar-3dod: 3D Object detection using LIDAR input
+- 3dod: 3D Object detection
 - 6d-pose: 6D Pose estimation of objects (3-Translation, 3-Rotation)
